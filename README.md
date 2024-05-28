@@ -1,2 +1,1 @@
-# Rental-WDM
-Aplikasi rental mobil berbasis web
+## Project Web SMANSAKOPIN
